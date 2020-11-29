@@ -34,7 +34,7 @@ El comando que he utilizado es `git branch –D title`
 He utilizado el comando `git reset –hard a687898` para volver al commit donde absorbimos la rama title donde metimos un titulo.
 
 **¿Qué comando o comandos usaste en el paso 32?**
-He utilizado el comando ````git reset --hard HEAD@{19}`
+He utilizado el comando `git reset --hard HEAD@{19}`
 
 **¿Qué comando o comandos usaste en el punto 33?**
 He utilizado el comando `git reset –hard a687898`
